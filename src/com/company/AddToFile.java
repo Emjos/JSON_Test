@@ -1,4 +1,4 @@
-package JSON;
+package com.company;
 
 
 import java.io.*;

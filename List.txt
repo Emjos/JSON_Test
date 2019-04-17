@@ -1,0 +1,3 @@
+Tranzakcja 1 wymiana:13.0 CUP na :1.4835704 PLN
+Tranzakcja 2 wymiana:12.0 EUR na :41.00400960000001 PLN
+Tranzakcja 3 wymiana:11.0 USD na :7.788704 EUR
